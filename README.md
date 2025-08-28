@@ -2,7 +2,7 @@
 
 ## Этот репозиторий предназначен для быстрого развертывания Jenkins через Docker Compose.
 ```bash
-git clone https://github.com/disp06/SecordProject.git
+git clone https://github.com/disp06/JenkinsDockerized.git
 ```
 
 ```bash
